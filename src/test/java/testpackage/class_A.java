@@ -7,6 +7,9 @@ public class class_A {
 		
 		//hello
 		//hello1
+		//hello2
+		//hello2
+		//hello2
 
 	}
 
